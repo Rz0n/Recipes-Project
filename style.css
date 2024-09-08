@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: rgb(92, 255, 86);
+}
+
+.start, .discription {
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.list {
+    list-style-type: none;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
